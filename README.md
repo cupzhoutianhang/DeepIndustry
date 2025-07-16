@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="RAMCIP Logo" width="300"/>
+</p>
+
 # RAMCIP Logo
 
 Welcome to the official logo repository of **RAMCIP** – the **Reasoning-Augmented Material & Chemical Intelligence Platform**. This logo represents our commitment to merging cutting-edge AI technologies with the transformative world of materials science and chemical innovation.
@@ -10,10 +14,10 @@ Welcome to the official logo repository of **RAMCIP** – the **Reasoning-Augmen
 
 At the heart of RAMCIP is a *chain-of-thought reasoning engine* integrated with large language models (LLMs), empowering researchers and engineers to:
 
-- Predict material properties with unprecedented accuracy
-- Design novel chemical compounds through AI-driven retrosynthesis
-- Optimize experiments using intelligent hypothesis generation
-- Translate cross-domain knowledge into real-world chemical systems
+- Predict material properties with unprecedented accuracy  
+- Design novel chemical compounds through AI-driven retrosynthesis  
+- Optimize experiments using intelligent hypothesis generation  
+- Translate cross-domain knowledge into real-world chemical systems  
 
 RAMCIP bridges the gap between symbolic reasoning and neural computation, offering an interactive, explainable, and intuitive experience for scientists worldwide.
 
@@ -25,56 +29,21 @@ The logo file included in this repository is named `logo.png`. It visually refle
 
 ### ✨ Design Themes
 
-- **Scientific Intelligence:** The use of structured forms alludes to molecular networks, crystal lattices, and chemical bonds—representing the material and chemical domains.
-- **Chain of Reasoning:** Interconnected nodes and lines illustrate step-by-step logical deduction—a visual metaphor for reasoning-enhanced LLMs.
-- **Technological Elegance:** A sleek and modern typographic representation of the acronym **RAMCIP** reinforces clarity, identity, and memorability.
+- **Scientific Intelligence:** The use of structured forms alludes to molecular networks, crystal lattices, and chemical bonds—representing the material and chemical domains.  
+- **Chain of Reasoning:** Interconnected nodes and lines illustrate step-by-step logical deduction—a visual metaphor for reasoning-enhanced LLMs.  
+- **Technological Elegance:** A sleek and modern typographic representation of the acronym **RAMCIP** reinforces clarity, identity, and memorability.  
 
 ### 🎨 Colors & Style
 
-- **Primary Color Palette:** Teal, navy, and metallic silver evoke a sense of trust, innovation, and scientific depth.
-- **Style:** Clean, minimalistic, and versatile—suitable for UI interfaces, presentation slides, scientific posters, documentation, and more.
-
----
-
-## 📂 File Structure
-
-├── logo.png # The primary logo image file (transparent or white background)
-└── README.md # Documentation about the logo and RAMCIP identity
-
-> *Note: Additional formats (e.g., SVG, PDF) can be added in the future for various use cases.*
-
----
-
-## 📄 Usage Guidelines
-
-You are welcome to use the `logo.png` in any of the following RAMCIP-related contexts:
-
-- Platform user interface (UI/UX)
-- Project documentation and whitepapers
-- Conference slides or academic posters
-- Web portals, dashboards, or API services
-- Social media and promotional materials
-
-### ✅ Do
-
-- Use the logo to represent the RAMCIP platform or affiliated projects.
-- Maintain the aspect ratio and resolution.
-- Use on appropriate background colors for visual clarity.
-
-### ❌ Don't
-
-- Alter or distort the logo shape or typography.
-- Apply unapproved color schemes or filters.
-- Use the logo for unrelated third-party applications.
-
----
+- **Primary Color Palette:** Teal, navy, and metallic silver evoke a sense of trust, innovation, and scientific depth.  
+- **Style:** Clean, minimalistic, and versatile—suitable for UI interfaces, presentation slides, scientific posters, documentation, and more.  
 
 ## 📬 Contact & Contributions
 
 For questions about branding, use cases, or if you'd like to contribute alternate versions or styles of the logo, feel free to open an issue or contact the maintainers.
 
 📧 **Email:** hello@ramcip.ai  
-🌐 **Website:** [www.ramcip.ai](https://www.ramcip.ai) *(Coming soon)*
+🌐 **Website:** [www.ramcip.ai](https://www.ramcip.ai) *(Coming soon)*  
 
 ---
 
