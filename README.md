@@ -2,7 +2,7 @@
   <img src="logo.png" alt="RAMCIP Logo" width="300"/>
 </p>
 
-# RAMCIP Logo
+# RAMCIP 
 
 Welcome to the official logo repository of **RAMCIP** – the **Reasoning-Augmented Material & Chemical Intelligence Platform**. This logo represents our commitment to merging cutting-edge AI technologies with the transformative world of materials science and chemical innovation.
 
