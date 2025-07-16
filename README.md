@@ -3,42 +3,43 @@
 ![Logo](logo.png)
 
 ![Linux Test](https://img.shields.io/badge/Code%20tests%20Linux-passing-brightgreen?logo=github)
-![Windows Test](https://img.shields.io/badge/Code%20tests%20Windows%20(uv%2Fpip)-passing-brightgreen?logo=github)
+![Windows Test](https://img.shields.io/badge/Code%20tests%20Windows%20%28uv%2Fpip%29-passing-brightgreen?logo=github)
 ![macOS Test](https://img.shields.io/badge/Code%20tests%20macOS-passing-brightgreen?logo=github)
 
 ---
 
-**AMP (Amine Molecule Prediction)** is a reasoning-based platform for predicting the structure and behavior of amine molecules. It integrates machine learning and chemical knowledge to provide interpretable, accurate predictions for research in drug discovery, organic synthesis, and materials science.
+**AMP (Amine Molecule Prediction)** is an open-source platform that combines machine learning, cheminformatics, and symbolic reasoning to predict the structure, properties, and reactivity of amine-based molecules. Designed for research in molecular design, drug discovery, and materials chemistry, AMP provides interpretable and reproducible predictions with built-in reasoning chains.
+
+Whether you're building predictive pipelines, screening molecular libraries, or exploring structure–activity relationships (SAR), AMP helps you move from data to insight with clarity and control.
 
 ---
 
-## 🔬 Features
+## 🌟 Key Highlights
 
-- 🧠 **Reasoning Chain Architecture**: Transparent logic behind predictions.
-- ⚗️ **Amine-Specific Models**: Designed for molecules containing amine groups.
-- 📊 **Property & Reactivity Prediction**: Output chemical, physical, or biological properties.
-- 🔍 **Explainable AI**: Offers interpretable reasoning for each prediction.
+- 🧠 **Reasoning Chain Framework**  
+  Every prediction is backed by a logic-driven explanation, improving interpretability and trust.
+
+- ⚗️ **Amine-Focused Architecture**  
+  Tailored for molecules containing –NH₂, –NHR, –NR₂ groups across primary, secondary, and tertiary amines.
+
+- 📈 **Molecular Property Prediction**  
+  Predicts boiling point, reactivity, bioactivity, solubility, or custom-trained targets.
+
+- 🔍 **Explainable AI**  
+  Built-in tools to visualize decision flow, feature contributions, and molecular fragments.
 
 ---
 
-## 🖼 Example Output
+## 📦 Installation
 
-<img src="example.png" alt="Example reasoning chain output" width="600"/>
-
-*A reasoning chain output example for a substituted ethylamine molecule.*
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
+### 1. Requirements
 
 - Python 3.8+
-- RDKit
-- PyTorch or TensorFlow
+- [RDKit](https://www.rdkit.org/)
 - NumPy, Pandas, Scikit-learn
+- PyTorch or TensorFlow (optional, depending on model backend)
 
-### Installation
+### 2. Install AMP
 
 ```bash
 git clone https://github.com/your-username/AMP.git
