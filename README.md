@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="RAMCIP Logo" width="300"/>
+  <img src="logo.png" alt="RAMCIP Logo" style="width:100%; max-width:1000px; height:auto;" />
 </p>
 
 # RAMCIP 
